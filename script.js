@@ -55,7 +55,7 @@ pilihan.forEach(function(pil){
             }else if(skorPlayer == 5){
                 Swal.fire({
                     title: "Berhasil",
-                    text: "Selamat anda telah mengalahkan",
+                    text: "Selamat anda telah mengalahkan Computer!",
                     icon: "success"
                 });
                 skorComputer = 0;
